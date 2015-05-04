@@ -4,6 +4,7 @@
   "description": "fruitChart: An Ionic project",
   "dependencies": {
     "chart.js": "^1.0.2",
+    "Chart.js": "~1.0.2",
     "angular-chart.js": "^0.6.0",
     "gulp": "^3.5.6",
     "gulp-concat": "^2.2.0",
@@ -21,7 +22,5 @@
     "org.apache.cordova.console",
     "com.ionic.keyboard"
   ],
-  "cordovaPlatforms": [
-    "android"
-  ]
+  "cordovaPlatforms": []
 }
